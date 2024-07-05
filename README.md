@@ -1,0 +1,1 @@
+Aplicacion que simula un juego en el que tenemos que adivinar el numero al azar que esta escondido
